@@ -1,6 +1,2 @@
-uetab.com
-*.uetab.com
-uetab.com
-*.asus.com
-*.baidu.com
-*.bilibili.com
+DOMAIN-SUFFIX,uetab.com
+DOMAIN-SUFFIX,asus.com
