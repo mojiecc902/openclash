@@ -1,4 +1,21 @@
+# ---------------------------------------------------------------
+# Title: Bambu Lab Global Rule Set
+# Description: Rules for Bambu Handy, MakerWorld and Cloud Services
+# Updated: 2026-05-08
+# ---------------------------------------------------------------
+
+# --- Account & Core Services ---
 DOMAIN-SUFFIX,bambulab.com
-DOMAIN-SUFFIX,bambulab.net
+DOMAIN-SUFFIX,bambumaker.com
+DOMAIN-KEYWORD,bambulab
+
+# --- MakerWorld ---
 DOMAIN-SUFFIX,makerworld.com
-DOMAIN,api.bambulab.com
+DOMAIN-SUFFIX,bblmw.com
+DOMAIN-KEYWORD,makerworld
+
+# --- CDN & API ---
+DOMAIN-SUFFIX,bblstatic.com
+DOMAIN-SUFFIX,bblapi.com
+DOMAIN-SUFFIX,bamburesearch.com
+DOMAIN-SUFFIX,bambu-lab.com
