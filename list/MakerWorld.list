@@ -1,3 +1,6 @@
-- DOMAIN-SUFFIX,bambulab.com
-- DOMAIN-SUFFIX,makerworld.com
-- DOMAIN-SUFFIX,bambulab.net
+# Bambu Lab 国际站域名
+DOMAIN-SUFFIX,bambulab.com
+DOMAIN-SUFFIX,bambulab.net
+DOMAIN-SUFFIX,makerworld.com
+# 如果需要包含子域名
+DOMAIN,api.bambulab.com
